@@ -1,0 +1,6 @@
+framework module Pods_Habit_Forming {
+  umbrella header "Pods-Habit Forming-umbrella.h"
+
+  export *
+  module * { export * }
+}
